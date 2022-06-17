@@ -1,7 +1,7 @@
 # Hi there 👋 , I'm Fajar Aji Kusuma!
 Hi, 👋 I am Fajar Aji Kusuma, an Informatics Engineering student in Pekalongan. Who may be currently trying to develop skills in the field of coding 😊.
 
-## Maybe used often:
+<!-- ## Maybe used often:
 <p>
     <img src="https://img.shields.io/badge/Windows-blue?&logo=windows" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=white" />
@@ -9,7 +9,7 @@ Hi, 👋 I am Fajar Aji Kusuma, an Informatics Engineering student in Pekalongan
     <img src="https://img.shields.io/badge/Flutter-blue?&logo=flutter&logoColor=white" />
     <img src="https://img.shields.io/badge/PHP-blue?&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/Javascript-yellow?&logo=javascript&logoColor=white" />
-</p>
+</p> -->
 
 ### The language I'm learning and the framework I'm using:
 #### Web :
