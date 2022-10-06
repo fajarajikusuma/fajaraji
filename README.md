@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fajarajikusuma" alt="fajarajikusuma" /></a> </p>
 
-- 🔭 I’m currently working on [UPT Komputer](https://uptkomputer.xyz/)
+- 🔭 I’m currently working on [**UPT Komputer**](https://uptkomputer.xyz/)
 
 - 🌱 I’m currently learning **Codeigniter 4**
 
