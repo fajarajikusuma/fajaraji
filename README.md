@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fajarajikusuma" alt="fajarajikusuma" /></a> </p>
 
-- 🔭 I’m currently working on **[UPT KOMPUTER]**(https://uptkomputer.xyz)
+- 🔭 I’m currently working on [UPT Komputer](https://uptkomputer.xyz/)
 
 - 🌱 I’m currently learning **Codeigniter 4**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/fajar aji kusuma" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fajar aji kusuma" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100007619986317" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fajar aji kusuma" height="30" width="40" /></a>
 <a href="https://instagram.com/fajaraji_kusuma" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fajaraji_kusuma" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCgJom4lDvLQesLiYIND0p7A" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="f-home" height="30" width="40" /></a>
 </p>
