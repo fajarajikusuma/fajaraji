@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [**Dinas Lingkungan Hidup Kota Pekalongan**]([https://uptkomputer.xyz/](https://dlh.pekalongankota.go.id/))
+- 🔭 I’m currently working on [**Dinas Lingkungan Hidup Kota Pekalongan**](https://dlh.pekalongankota.go.id/)
 
 - 🧠 I’m currently learning **Codeigniter 4** and **Python** and **Laravel 11**
 
