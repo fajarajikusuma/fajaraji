@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fajar Aji Kusuma</h1>
 <h5 align="center">All knowledge can be learned easily, but difficult to understand let alone practiced. Like love that is difficult to understand what the woman wants.😋 It's all about consistency.🤙</h5>
 
-<p> <img src="https://komarev.com/ghpvc/?username=fajarajikusuma&label=Profile%20views&color=0e75b6&style=flat" alt="fajarajikusuma" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fajarajikusuma&label=Profile%20views&color=0e75b6&style=flat" alt="fajarajikusuma" /> </p>
 
 ## 🚀 About Me
 
@@ -21,6 +21,8 @@
 <a href="https://instagram.com/fajaraji_kusuma" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fajaraji_kusuma" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCgJom4lDvLQesLiYIND0p7A" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="f-home" height="30" width="40" /></a>
 </p>
+
+##
 
 <!-- ## 🌱 Languages and Database
 
