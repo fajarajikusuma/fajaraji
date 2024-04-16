@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fajar Aji Kusuma</h1>
-<h3 align="center">All knowledge can be learned easily, but difficult to understand let alone practiced. Like love that is difficult to understand what the woman wants.😋 It's all about consistency.🤙</h3>
+<h4 align="center">All knowledge can be learned easily, but difficult to understand let alone practiced. Like love that is difficult to understand what the woman wants.😋 It's all about consistency.🤙</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fajarajikusuma&label=Profile%20views&color=0e75b6&style=flat" alt="fajarajikusuma" /> </p>
 
