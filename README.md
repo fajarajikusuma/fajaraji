@@ -22,8 +22,6 @@
 <a href="https://www.youtube.com/channel/UCgJom4lDvLQesLiYIND0p7A" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="f-home" height="30" width="40" /></a>
 </p>
 
-##
-
 <!-- ## 🌱 Languages and Database
 
 <p>
