@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [**Dinas Lingkungan Hidup Kota Pekalongan**](https://dlh.pekalongankota.go.id/)
 
-- 🧠 I’m currently learning **Codeigniter 4** and **Python** and **Laravel 11**
+- 🧠 I’m currently learning **Codeigniter 4**, **Python** and **Laravel 11**
 
 - 👯 I’m looking to collaborate on [**OFFTHEGRID**](https://offthegrid.vercel.app/)
 
@@ -26,9 +26,9 @@
 <a href="https://www.youtube.com/channel/UCgJom4lDvLQesLiYIND0p7A" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="f-home" height="30" width="40" /></a>
 </p>
 
-## 🌱 Languages and Database
+<!-- ## 🌱 Languages and Database
 
-<p> 
+<p>
 <span id="html">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="40"/> </a>
 </span>
@@ -65,7 +65,7 @@
 <a href="https://www.apachefriends.org/download.html" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" alt="vscode" width="40" height="40"/></a>
 </span>
 <span id="postman">
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </span>
 <span id="git">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="40"/> </a>
@@ -76,4 +76,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fajarajikusuma&show_icons=true&locale=en" alt="fajarajikusuma" height=180 />
 </p>
 
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fajarajikusuma&" alt="fajarajikusuma" /></p> -->
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fajarajikusuma&" alt="fajarajikusuma" /></p> -->
